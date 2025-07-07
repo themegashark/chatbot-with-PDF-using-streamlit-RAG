@@ -1,5 +1,5 @@
 
-![image](https://github.com/ergv03/chat-with-pdf-llm/assets/23053920/969edf03-4451-4909-98d9-601d92a17e83)
+(https://github.com/ergv03/chat-with-pdf-llm/assets/23053920/969edf03-4451-4909-98d9-601d92a17e83)
 
 ## Overview:
 
